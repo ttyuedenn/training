@@ -1,0 +1,34 @@
+header{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: blue;
+    background-color: rgb(251, 240, 255);
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-container {
+    display: flex;
+    min-height: 70vh;
+}
+
+aside {
+    width: 20%;
+    background-color: powderblue;
+}
+
+main {
+    width: 80%;
+    background-color: aliceblue;
+}
+
+footer{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    color: blue;
+}
